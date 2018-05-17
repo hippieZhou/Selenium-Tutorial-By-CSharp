@@ -13,6 +13,10 @@ namespace _01.Sample
 {
     /// <summary>
     /// http://toolsqa.com/selenium-webdriver/c-sharp/set-up-selenium-webdriver-with-visual-studio-in-c/
+    /// Set Up Selenium WebDriver with Visual Studio in C#
+    /// peckages:
+    ///     Selenium.WebDriver
+    ///     WebDriver.GeckoDriver
     /// </summary>
     class Program
     {
@@ -27,8 +31,6 @@ namespace _01.Sample
 
             IWebDriver driver = new FirefoxDriver();
             driver.Url = "http://demoqa.com/";
-
-            
         }
     }
 }
