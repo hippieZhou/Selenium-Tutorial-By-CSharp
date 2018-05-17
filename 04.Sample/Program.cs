@@ -8,6 +8,10 @@ using System.Threading.Tasks;
 
 namespace _04.Sample
 {
+    /// <summary>
+    /// http://toolsqa.com/selenium-webdriver/c-sharp/browser-navigation-commands-in-c/
+    /// C＃中的浏览器导航命令
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
