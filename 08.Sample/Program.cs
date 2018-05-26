@@ -10,6 +10,9 @@ using System.Threading.Tasks;
 
 namespace _08.Sample
 {
+    /// <summary>
+    /// http://toolsqa.com/selenium-webdriver/c-sharp/dropdown-multiple-select-operations-in-c/
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
